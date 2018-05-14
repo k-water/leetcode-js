@@ -40,3 +40,22 @@
 * [x] [旋转图像](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/31/) [accode](./Array/rotateMatrix.js)
 
 
+### 字符串
+---
+* [x] [反转字符串](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/32/) [accode](./String/reverseString.js)
+
+* [x] [颠倒整数](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/33/) [accode](./String/reverse.js)
+
+* [x] [字符串中的第一个唯一字符](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/34/) [accode](./String/firstUniqChar.js)
+
+* [x] [有效的字母异位词](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/35/) [accode](./String/isAnagram.js)
+
+* [x] [验证回文字符串](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/36/) [accode](./String/isPalindrome.js)
+
+* [x] [字符串转整数（atoi）](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/37/) [accode](./String/myAtoi.js)
+
+* [x] [实现strStr()](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/38/) [accode](./String/strStr.js)
+
+* [x] [数数并说](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/39/) [accode](./String/countAndSay.js)
+
+* [x] [最长公共前缀](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/40/) [accode](./String/longestCommonPrefix.js)
